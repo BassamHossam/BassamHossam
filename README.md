@@ -133,7 +133,7 @@ with strong expertise in:
 <div align="center" style="font-family: monospace; color:#666; margin-top:30px;">
 
 <pre>
-"Low-level knowledge turns chaos into control."
+"Low-level knowledge turns security from guessing into engineering."
 </pre>
 
 LinkedIn: <a href="https://www.linkedin.com/in/bassamhossam/" style="color:#ff4d4d;">BassamHossam</a>
