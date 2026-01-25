@@ -137,5 +137,6 @@ with strong expertise in:
 </pre>
 
 LinkedIn: <a href="https://www.linkedin.com/in/bassamhossam/" style="color:#ff4d4d;">BassamHossam</a>
+Medium: <a href="https://medium.com/@bassam.hossam69" style="color:#ff4d4d;">BassamHossam</a>
 
 </div>
